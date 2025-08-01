@@ -75,7 +75,7 @@ def gerar_faturamento(dataframe):
 
 
 #Definição do tamanho da Base
-qte_linhas = 15
+qte_linhas = 20
 
 #Definindo dataframe vazio 
 dataframe = pd.DataFrame()
